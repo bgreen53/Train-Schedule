@@ -1,0 +1,16 @@
+body{
+    background-color: rgb(229, 238, 241);
+}
+
+th{
+    font-weight: bolder;
+    text-decoration: underline;
+}
+
+h3{
+    color: white;
+}
+
+a{
+    font-size: 40px;
+}
